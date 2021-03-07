@@ -43,6 +43,10 @@ dwmblocks
 *.idb
 *.pdb
 
+# Makepkg Rejects
+*.orig
+*.rej
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
