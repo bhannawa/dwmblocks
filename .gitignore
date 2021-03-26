@@ -47,6 +47,11 @@ dwmblocks
 *.orig
 *.rej
 
+# Overflow stuff
+overflow/overflow
+overflow/overflow.o
+overflow/status
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
